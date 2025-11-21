@@ -1,4 +1,4 @@
-# 🔍 Email Phishing Detection using TensorFlow + NLP
+# 🔍 Email Spam Phishing Detection using TensorFlow + NLP
 
 Project ini adalah sistem deteksi email phishing menggunakan Natural Language Processing (NLP) dan Deep Learning berbasis TensorFlow. Sistem dapat mempelajari pola email **NORMAL**, **SPAM**, atau **PHISHING** dan memprediksi email baru secara otomatis.
 
